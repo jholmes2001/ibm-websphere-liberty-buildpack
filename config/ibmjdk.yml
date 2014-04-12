@@ -16,5 +16,5 @@
 # Configuration for JRE repository
 ---
 #repository_root: "https://public.dhe.ibm.com/ibmdl/export/pub/software/websphere/wasdev/downloads/jre"
-repository_root: "file:///C:/buildpack-cache/jre"
+repository_root: "http://localhost/buildpack-cache/jre"
 version: 1.7.0_+
